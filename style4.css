@@ -1,0 +1,22 @@
+
+h1{
+    background-color: blue;
+    font-size: 300%;
+    color: aliceblue;
+    text-align: center;
+    
+}
+    
+.flexbox {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: white;
+}
+
+.flexbox > div {
+  background-color: rgb(30, 255, 143);
+  width: 600px;
+  margin: 10px;
+  text-align: justify;
+  font-size: 30px;
+}

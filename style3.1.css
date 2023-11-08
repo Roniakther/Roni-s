@@ -1,0 +1,106 @@
+body{
+    margin:0%;
+    padding:0%;
+
+}
+button{
+    background-color:rgb(181, 230, 230);
+    display: flex;
+    width: 90vw;
+    height: 90vh;
+    padding: 10px;
+    gap: 20px;
+}
+#child1{
+    width: 90vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#child2{
+    background-color: rgb(231, 188, 209);
+    width: 90vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    
+}
+#gchild1{
+font-size: 40px;
+
+}
+#gchild2{
+    background-color: green;
+    color:white;
+    border: 100px;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+   
+   
+}
+#gchild3{
+background-color:yellow;
+
+    color:rgb(26, 20, 20);
+    border: 100px;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+#gchild4{
+    background-color:rgb(39, 39, 25);
+    color:white;
+    border: 100px;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+#gchild5{
+    background-color:plum;
+    color:rgb(22, 19, 19);
+    border: 100px;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#gchild6{
+    font-size: 30px;
+    text-align: left;
+}
+#gchild7{
+    background-color: rgb(237, 240, 243);
+    width: 45vw;
+    height: 60vh;
+    margin-left: 15px;
+    margin-right:15px;
+    text-align: left;
+   
+    
+}
+#gchild8{
+    background-color:green;
+    color:rgb(250, 245, 245);
+    border: 100px;
+    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+

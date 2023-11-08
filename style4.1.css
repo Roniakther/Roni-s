@@ -1,0 +1,44 @@
+.Food{
+  display: flex;
+  width: 250px;
+  height:300px;
+  margin: 15px;
+  padding:10px;
+}
+.Mosque{
+  display: flex;
+  width: 19vw;
+  height:20vh;
+  margin: 15px;
+  padding:10px;
+}
+
+
+.wevsite{
+  display: flex;
+  width: 19vw;
+  height:23vh;
+  justify-content:space-between; 
+  align-items:center;
+  margin: 15px;
+  padding:10px;
+
+}
+.birds{
+display:flex;
+width: 30vw;
+height:50vh;
+margin:30px;
+
+}
+.imges{
+  display: flex;
+  width:26vw;
+height:20vh;
+margin:30px;
+justify-content:space-between
+
+}
+
+
+

@@ -1,0 +1,11 @@
+
+    #parents{
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .image{
+        width: 10px;
+        height: 10px;
+
+    }

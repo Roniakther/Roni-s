@@ -1,0 +1,56 @@
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    display: flex;
+  justify-content: flex-start;
+    text-align: center;
+  }
+    
+
+section{
+    display: flex;
+    background-color:white;
+    height:60vh;
+    width:40vw;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    
+ 
+
+}
+#flag1,#flag2,#flag3{
+    height: 33%;
+    width: 100%;
+    
+}
+#flag1{
+    background-color:red ;
+
+}
+#flag2{
+    background-color:white;
+
+}#flag3{
+    background-color: black;
+}
+#section2{
+    background-color: green;
+    width: 60vw;
+    height: 50vh;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+#child1{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius:50%;
+   
+
+}

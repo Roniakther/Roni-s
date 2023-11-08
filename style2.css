@@ -1,0 +1,31 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0%;
+    box-shadow: 5px 10px;
+    
+}#borderimg { 
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url("Roni's files.jpg") 30 round;
+
+div {
+    border-style: solid;
+    border-color: rgb(255, 80, 80);
+  }
+    
+  
+ 
+  
