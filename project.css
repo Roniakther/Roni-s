@@ -1,0 +1,66 @@
+body{
+    margin:0%;
+    padding:0%;
+  box-sizing: border-box;
+}
+#section1{
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    
+
+}
+.Heding{
+font-size: 40px;
+color: brown;
+
+}
+#section2{
+display: flex;
+justify-content: space-between;
+padding-left: 40px;
+padding-bottom: 20px;
+align-items: center;
+
+
+}
+.stylebutton{
+  font-size: 40px;
+  color: rgb(90, 80, 80);
+  border-radius: 10px;
+ 
+ 
+}
+
+
+.image1{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.cards{
+  border: 5px solid rgb(145, 132, 132);
+  padding:30px 10px ;
+  box-shadow: 5px 5px 10px 2px;
+  background-color: bisque;
+  border-left: 7px solid red;
+}
+#majordiv{
+display: flex;
+justify-content: space-between;
+align-items: center;
+text-align: justify;
+padding: 10px 15px 10px 15px;
+gap: 10px;
+}
+.buttonn{
+  font-size: 40px;
+  color: rgb(18, 210, 231);
+  background-color: chocolate;
+}
+.buttonn:hover{
+color: blueviolet;
+
+ 
+ 
+}

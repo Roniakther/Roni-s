@@ -1,6 +1,6 @@
 body{
-    margin:0;
-    padding: 0;
+    margin:0%;
+    padding: 0%;
     box-sizing: border-box;
 }
 #section1{
@@ -10,9 +10,16 @@ body{
 }
 #image1{
     height: 500px;
+    border-radius: 50%;
+    
 }
-#text_div,#image_div{
+    
+    
+
+#image_div{
     width: 50%;
+   
+  
 }
 .text_div_h1{
     font-size: 44px;
@@ -34,4 +41,98 @@ body{
     color: blueviolet;
     transition:1s ;
 
+}
+button{
+    background-color: coral;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    
+    
+
+}
+#button1,button:hover{
+    color: cornflowerblue;
+    transition: 1s;
+    color: black;
+
+}
+#section2{
+    color: cyan;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    
+    
+    
+}
+#image_div1{
+    width: 50%;
+    margin-left: 10px;
+    
+    
+}
+#image2{
+    height: 500px;
+    border-radius: 50%;
+    
+    
+
+
+}
+#text_div1{
+    color: aqua;
+   
+   
+}
+.text_div_h2{
+    font-size: 44px;
+    font-family:Arial, Helvetica, sans-serif 
+
+
+
+}
+
+#Expsection3{
+    padding: 50px 0;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: linear-gradient(orange, tomato);
+
+    
+
+}
+#Expheding{
+    font-size: 54px;
+    padding-left: 20px;
+}
+#majordiv{
+    padding:0 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:20px ;
+}
+.Excard1{
+    border:3px solid blueviolet;
+    padding:30px 10px ;
+    box-shadow: 5px 5px 10px 2px;
+    background-color: bisque;
+    border-left: 7px solid red;
+
+}
+.cardHedingh1{
+    font-size: 34px;
+
+}
+.cardHedingh4{
+    font-size: 24px;
+    color: rgb(5, 243, 96);
+    
+}
+.cardparag{
+    font-size: 18px;
+    text-align: justify;
 }
