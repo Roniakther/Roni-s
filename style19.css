@@ -7,6 +7,7 @@ body{
     align-items: center;
     height: 100vh;
     background-color: gainsboro;
+    gap: 20px;
 }
 form{
     display: flex;
@@ -31,4 +32,15 @@ small{
 }
 input{
     padding: 10px 5px;
+}
+#colorfull{
+    color:rgb(17, 240, 165);
+}
+#linkedin{
+    color:rgb(240, 240, 240);
+    background-color:rgb(50, 50, 206)
+    
+}
+#colorh1{
+    color:rgb(23, 23, 233)
 }
