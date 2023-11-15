@@ -10,15 +10,17 @@ body{
     
 
 }
+#colorful{
+  color: aqua;
+}
 .Heding{
-font-size: 40px;
+font-size: 20px;
 color: brown;
 
 }
 #section2{
 display: flex;
 justify-content: space-between;
-padding-left: 40px;
 padding-bottom: 20px;
 align-items: center;
 
@@ -39,20 +41,14 @@ align-items: center;
   border-radius: 50%;
 }
 .cards{
-  border: 5px solid rgb(145, 132, 132);
-  padding:30px 10px ;
-  box-shadow: 5px 5px 10px 2px;
-  background-color: bisque;
-  border-left: 7px solid red;
+  padding:10px 20px;
+  box-shadow: 2px 2px 2px 2px;
+  border: 7px solid rgb(146, 66, 66);
+  text-align: justify;
+ background-color: rgb(157, 165, 42);
+border-radius: 10px;
 }
-#majordiv{
-display: flex;
-justify-content: space-between;
-align-items: center;
-text-align: justify;
-padding: 10px 15px 10px 15px;
-gap: 10px;
-}
+
 .buttonn{
   font-size: 40px;
   color: rgb(18, 210, 231);
@@ -63,4 +59,29 @@ color: blueviolet;
 
  
  
+}
+#cardsection{
+  color: rgb(26, 27, 27);
+  padding: 20px;
+  
+}
+#majordiv{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+
+}
+#card{
+  background-color: rgb(243, 137, 9);
+  padding:10px 20px;
+  
+  border-top: 7px solid rgb(90, 54, 54);
+  text-align: justify;
+  border-bottom: 7px solid rgb(90, 54, 54);
+  border-radius: 10px;
+}
+#parag{
+  font-size: 13px;
+  height:54px;
 }
